@@ -13,10 +13,10 @@ This is the backend for the El Lotteria game — a real-time, grid-based lottery
 
 ## 🛠️ Tech Stack
 
-- **Node.js** – JavaScript runtime
-- **Express.js** – Web framework for Node
-- **MongoDB** – NoSQL database
-- **Mongoose** – MongoDB object modeling for Node.js
+- **Node.js** – JavaScript runtime  
+- **Express.js** – Web framework for Node  
+- **MongoDB** – NoSQL database  
+- **Mongoose** – MongoDB object modeling for Node.js  
 
 ---
 
@@ -27,6 +27,7 @@ This is the backend for the El Lotteria game — a real-time, grid-based lottery
 ```bash
 git clone https://github.com/your-username/el-lotteria-backend.git
 cd el-lotteria-backend
+
 ````
 
 ### 2. Install dependencies
